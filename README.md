@@ -58,6 +58,12 @@ I have designed & converted some website from psd/xd/figma/sketch to html of dif
 Website Design Using Wix Builder
 =================================
 (01) https://upworkkamrul.wixsite.com/kidschool <br>
+(02) https://upworkkamrul.wixsite.com/babyshop <br>
+(03> https://upworkkamrul.wixsite.com/cloneweb-1 <br>
+(04) https://upworkkamrul.wixsite.com/foodmama <br>
+(05) https://upworkkamrul.wixsite.com/cloneweb-2 <br>
+(06) https://upworkkamrul.wixsite.com/custom-blog <br>
+(07) https://upworkkamrul.wixsite.com/myportfolio <br>
 <!---
 kamrulislambd/kamrulislambd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
